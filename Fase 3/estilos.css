@@ -1,0 +1,82 @@
+h1, h2{
+	width: 95%;
+	background:#0098cb;
+	text-align:center;
+	margin:20px  ;
+	border:1px solid #000000;
+	
+}
+
+body{
+	margin:5px;
+	padding: 0;
+	text-align:center;
+	border button:3px;
+	color: #000000;
+	background:url(../imagenes/fondo.jpg);
+
+	background-repeat:repeat-y;
+	background-attachment:fixed
+	
+
+}
+input[type="text"], input[type="password"]{
+	outline: none;
+	padding:30px;
+	display:block;
+	width:250px;
+	border-radius: 3px;
+	border:1px solid #eee;
+	margin:20px auto;
+}
+input[type="submit"]{
+	padding:10px;
+	color: #fff;
+	background: #0098cb;
+	width: 320px;
+	margin:20px auto;
+	margin-top: 0;
+	border:0;
+	cursor: pointer;
+}
+header{
+	border-bottom: 2px solid #000000;
+	padding: 20px 0;
+	margin-bottom: 15px;
+	width: 100%;
+	text-align: center;
+}
+header a{
+
+	color: #000;
+	border: 2px solid #000000;
+}
+.ok {
+	text-align: center;
+	width: 100%
+	padding:12px;
+	background-color: #4e8;
+	color: #fff
+}
+.bad {
+	text-align: center;
+	width: 100%
+	padding:12px;
+	background-color: #a22;
+	color: #fff
+} 
+table{
+	width: 90%;
+	background:#0098cb;
+	text-align:center;
+	margin:20px  ;
+}
+p{
+	width: 90%;
+	text-align:center;
+	margin:0px 20px  ;
+	color:#000000;
+}
+img{
+	border:1px solid #000;
+}
