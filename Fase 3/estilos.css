@@ -6,26 +6,23 @@ h1, h2{
 	border:1px solid #000000;
 	
 }
-
-body{
-	margin:5px;
-	padding: 0;
+header{
+	width: 95%;
 	text-align:center;
-	border button:3px;
-	color: #000000;
-	background:url(../imagenes/fondo.jpg);
-
-	background-repeat:repeat-y;
-	background-attachment:fixed
-	
-
+	margin:20px  ;
 }
-input[type="text"], input[type="password"]{
-	outline: none;
-	padding:30px;
-	display:block;
-	width:250px;
-	border-radius: 3px;
-	border:1px solid #eee;
-	margin:20px auto;
+footer{
+	width: 95%;
+	text-align:center;
+	margin:20px  ;
+}
+section{
+	width: 95%;
+	text-align:center;
+	margin:20px  ;
+}
+nav{
+	width: 95%;
+	text-align:center;
+	margin:20px  ;
 }
