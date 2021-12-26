@@ -17,9 +17,12 @@ footer{
 	margin:20px  ;
 }
 section{
-	
+	float: left;
 	text-align:center;
 	margin:20px  ;
+}
+article{
+	float: left;
 }
 nav{
 	
