@@ -7,29 +7,29 @@ h1, h2{
 	
 }
 header{
-	
+	background:#00cb3d;
 	text-align:center;
 	margin:20px  ;
 }
 footer{
-	
+	background:#adcb00;
 	text-align:center;
 	margin:20px  ;
 }
 section{
+	background:#00cb3d;
 	float: left;
 	text-align:center;
 	margin:20px  ;
 }
 article{
+	background:#adcb00;
 	float: left;
 }
 nav{
+	background:#00cb3d;
 	
 	text-align:center;
 	margin:20px  ;
 }
-body{
-	text-align:center;
-	margin:20px  ;
-}
+
