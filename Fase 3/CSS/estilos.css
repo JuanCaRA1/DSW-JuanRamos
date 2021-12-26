@@ -36,4 +36,8 @@ body{
 	text-align:center;
 	margin:20px  ;
 }
+.cont ::after{
+	display: block;
+	clear:both;
+}
 
